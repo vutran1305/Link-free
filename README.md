@@ -1,12 +1,12 @@
 # BaitapTuan7CNPM
 
-# GOALS
+GOALS
 -	Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng
 -	Nhân viên bán hàng có thể tìm phòng trống và đặt phòng theo yêu cầu của khách.
 -	Nhân viên lễ tân có thể tìm phòng trống theo yêu cầu trực tiếp của khách, checkin cho khách đã đặt phòng hoặc đặt phòng trực tiếp, checkout cho khách và in hóa đơn thanh toán cho khách
 -	Quản lí có thể: thêm/sửa/xóa thông tin phòng, xem các báo cáo doanh thu theo thời gian/theo phòng/theo loại phòng, xem báo cáo tỉ lệ phòng trống theo thời gian/theo phòng/theo loại phòng, xem báo cáo khách hàng đặt nhiều theo thời gian/theo nguồn gốc khách hàng.
 
-# Business Objectives 
+Business Objectives
 - Goal 1: Xây dựng trang web quản lý hệ thống khách sạn, cơ sở dữ liệu có chứa thông tin của khách sạn, nhân viên và chức vụ của họ
 - Goal 2 : Phân quyền cho nhân viên bán hàng, hoàn thành yêu cầu tìm phòng trống, đặt/hủy phòng
 - Goal 3: Phân quyền đối với nhân viến bán hàng; hoàn thành yêu cầu checkin/checkout thanh toán
